@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1453489957 source:d:\programming\c\homework\parand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"map_editor.h"
+	"menu.h"
+
+1453488699 d:\programming\c\homework\parand\map_editor.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1453488630 d:\programming\c\homework\parand\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map_editor.h"
+
+1453488652 source:d:\programming\c\homework\parand\map_editor.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1453488621 source:d:\programming\c\homework\parand\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"map_editor.h"
+
